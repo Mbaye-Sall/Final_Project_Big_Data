@@ -1,0 +1,26 @@
++---------+--------+---------------+------------------+
+|    fname|   lname|           city|      order_amount|
++---------+--------+---------------+------------------+
+| Victoria|   Smith|         Caguas|3449.9100000000003|
+|     Mary|Anderson|        Augusta|2859.8900000000003|
+| Samantha|   Smith|       Palatine|           2839.91|
+|   Daniel|   Smith|         Caguas|           2779.86|
+|     Mary|    Lane|         Caguas|            2699.9|
+|  Phillip|   Smith|       Amarillo|           2629.92|
+|   Teresa|    Gray|         Caguas|           2629.92|
+|Catherine| Hawkins|         Caguas|            2629.9|
+|    Amber|Sheppard|         Caguas|           2399.96|
+|  Matthew|   Smith|        Seattle|           2399.95|
+|     Mary|   Clark|      Frankfort|           2349.89|
+|     Mary|Cantrell|         Caguas|           2329.94|
+|  Richard|   Perry|          Bronx|           2299.96|
+|    Helen|   Smith|         Caguas|           2259.95|
+|  Charles|  Rogers|      San Diego|           2199.99|
+|     Mary|Harrison|         Caguas|           2149.99|
+|     Lisa|  Harper|Fort Lauderdale|            2039.8|
+|  Tiffany|Caldwell|  Silver Spring|           1999.88|
+|     Mary|  Miller|         Caguas|           1979.83|
+|     Mary|   Stein|       Mililani|            1899.9|
++---------+--------+---------------+------------------+
+only showing top 20 rows
+

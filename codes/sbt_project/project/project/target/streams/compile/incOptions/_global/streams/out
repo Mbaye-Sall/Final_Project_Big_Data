@@ -1,0 +1,2 @@
+[debug] Created transactional ClassFileManager with tempDir = /home/dmboup/gitProjects/apache_spark_data_processing/codes/sbt_project/project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /home/dmboup/gitProjects/apache_spark_data_processing/codes/sbt_project/project/project/target/scala-2.12/sbt-1.0/classes.bak

@@ -1,0 +1,408 @@
+fname	lname	city	order_amount
+Janice	Smith	Caguas	709.85
+Mary	Long	Caguas	709.85
+Jordan	Gay	Brooklyn	709.85
+Johnny	Marks	Caguas	709.8499999999999
+Mary	Whitaker	Los Angeles	709.8400000000001
+Mary	Smith	Manati	709.84
+Alexander	Smith	Buffalo	709.84
+Mary	Smith	Caguas	709.84
+Jessica	Roberts	Caguas	709.84
+Mary	Rogers	Decatur	709.84
+Mary	Smith	Caguas	709.84
+Mary	Johnson	Cicero	709.84
+Matthew	Smith	Caguas	709.84
+Adam	Taylor	Granada Hills	709.84
+Carolyn	Adams	Aurora	709.84
+Mary	Whitaker	Los Angeles	709.83
+Henry	Smith	Pekin	709.83
+Tammy	Gould	Mount Pleasant	709.83
+Cynthia	Smith	Bend	709.8299999999999
+Mary	Werner	El Paso	709.8299999999999
+Joseph	Smith	Caguas	709.8299999999999
+Mary	Smith	Cleveland	709.82
+Judith	Pham	Caguas	709.82
+Mary	Blake	Mechanicsburg	709.82
+Donald	Davis	Eugene	709.82
+Emily	Hill	Memphis	709.8
+Alice	Ellison	Caguas	709.8
+Cynthia	Smith	Caguas	709.8
+James	Holmes	Hilliard	709.8
+Cynthia	Nelson	Caguas	709.76
+Joshua	Smith	Caguas	709.73
+Laura	Baldwin	Brooklyn	709.73
+Gary	Flores	Caguas	708.95
+Evelyn	Thompson	Caguas	708.89
+Ruth	Smith	New York	707.97
+Mary	Smith	Brooklyn	707.95
+Mary	Wagner	Caguas	707.94
+Ann	Smith	Aurora	707.94
+Doris	Alvarez	Saint Paul	707.9300000000001
+Douglas	Smith	Caguas	707.9200000000001
+George	Smith	Caguas	707.9200000000001
+Nancy	Mcclure	Smyrna	707.9100000000001
+Mary	Welch	Garden Grove	707.91
+Ann	Jackson	Los Angeles	707.8900000000001
+Mary	Pace	Asheboro	707.8900000000001
+Kathryn	West	Caguas	707.89
+Katherine	Massey	Caguas	707.8399999999999
+Mary	Schneider	Hagerstown	707.8199999999999
+Mary	Smith	Caguas	706.9200000000001
+Megan	Sanders	Caguas	705.96
+Mary	Smith	Glen Burnie	705.95
+Kathryn	Ware	Saint Louis	705.95
+Marie	Smith	Caguas	705.9200000000001
+Samantha	Higgins	Miami	705.91
+Jesse	Stein	Lompoc	705.9000000000001
+Rachel	Blackburn	Miami	705.9000000000001
+Amber	Nguyen	Canton	705.9
+Jason	Smith	Caguas	705.89
+Aaron	Smith	New York	705.8800000000001
+Joan	Lin	Fairfield	705.88
+Margaret	Villa	San Antonio	705.82
+Cheryl	Smith	Brooklyn	705.8100000000001
+Joshua	Smith	Memphis	704.96
+Ann	Waller	Caguas	704.95
+Michelle	Stuart	Chicago	704.95
+Andrea	Cowan	Caguas	704.94
+Mary	Kim	Alpharetta	704.94
+Danielle	Price	Sun Valley	704.94
+Mary	Smith	Piscataway	704.94
+John	Smith	Caguas	704.94
+Katherine	Smith	Pico Rivera	704.9300000000001
+Donna	Smith	Caguas	704.9300000000001
+Victoria	Bowen	Chicago	704.9300000000001
+Mary	Young	Morganton	704.9200000000001
+Grace	Smith	Caguas	704.9200000000001
+Ronald	Guzman	Los Angeles	704.9200000000001
+Mary	Garcia	Westerville	704.9200000000001
+Christina	Sanchez	La Mirada	704.9200000000001
+Mary	Perez	Caguas	704.9200000000001
+John	Rodgers	Marrero	704.9100000000001
+Grace	Smith	Caguas	704.91
+Jane	Delacruz	Caguas	704.9000000000001
+Mary	Smith	Wilkes Barre	704.9
+Amanda	Smith	Caguas	704.89
+Anthony	Wright	Caguas	704.88
+Tammy	Hahn	Los Angeles	704.88
+Cynthia	Smith	Sylmar	704.86
+Jack	Moore	Caguas	704.86
+Frank	Jennings	Caguas	704.86
+Lauren	Campbell	Chicago	704.85
+Mary	Arnold	Jackson	704.85
+James	Dunn	Joliet	704.84
+Ronald	Scott	Caguas	704.83
+Helen	Gonzalez	Caguas	704.83
+Mary	Lee	Caguas	704.8000000000001
+Mary	Schmidt	Caguas	704.79
+Timothy	Smith	Fort Lauderdale	704.78
+Judy	Webb	Caguas	703.97
+Mary	Lee	Caguas	703.97
+Louis	Meadows	Caguas	703.95
+Mary	Watson	Caguas	703.95
+Mary	Duran	Houston	703.95
+Mary	Chavez	Chicago	703.95
+Madison	Smith	Irving	703.94
+Alice	Werner	Laredo	703.9100000000001
+Sara	Graves	Dallas	703.8800000000001
+Mary	Joyce	Caguas	703.88
+Mary	Smith	Pompano Beach	703.8700000000001
+Terry	Smith	Glen Burnie	703.8
+Mary	Gay	Ann Arbor	702.9000000000001
+Mary	Smith	Atlanta	702.84
+Mary	Johnson	Antioch	701.94
+Maria	Smith	Painesville	701.9300000000001
+Christine	Briggs	Highland	701.9300000000001
+Richard	Parker	Caguas	701.9000000000001
+Mary	Smith	Smyrna	701.9000000000001
+Andrea	Price	Caguas	701.9
+Jeremy	Smith	Atlanta	701.88
+Mary	Reilly	Caguas	701.8499999999999
+Heather	Smith	Honolulu	701.8400000000001
+Patricia	Wilkins	Modesto	701.8
+Christopher	Smith	Caguas	700.0
+Catherine	Smith	Caguas	699.99
+Mary	Randall	Memphis	699.98
+Judy	Smith	Salem	699.98
+Mary	Smith	Newark	699.98
+Mildred	Murphy	Sunnyvale	699.98
+Mary	Smith	La Crosse	699.98
+Mary	Yu	San Juan	699.98
+Mary	Wood	Caguas	699.98
+Jack	Duke	Caguas	699.98
+Jacob	Guerrero	Escondido	699.98
+Jason	Smith	Mesa	699.98
+Mary	Hall	Chicago	699.98
+Linda	Smith	Caguas	699.98
+Shirley	Smith	South Richmond Hill	699.98
+Mary	Jackson	Caguas	699.98
+Brian	Baker	Caguas	699.98
+Mary	Long	Caguas	699.98
+Mary	Johnson	Hagerstown	699.98
+Mary	Herrera	Caguas	699.98
+Mary	Flores	York	699.98
+Marie	Smith	Caguas	699.98
+Terry	Trujillo	Caguas	699.98
+Mary	Smith	La Mirada	699.98
+Mary	Smith	Freehold	699.97
+Mary	Smith	Lancaster	699.97
+Keith	Smith	Caguas	699.97
+Mary	Smith	Atlanta	699.97
+Amber	Farrell	Chicago	699.97
+Ashley	Hill	Los Angeles	699.97
+Rebecca	Smith	Fremont	699.97
+Mary	Smith	Bronx	699.97
+Ann	Smith	San Ramon	699.97
+Mary	Smith	Ontario	699.97
+George	Smith	Caguas	699.97
+Mary	Atkinson	Hampton	699.97
+Mary	Smith	Porterville	699.97
+Mary	Nash	Caguas	699.97
+David	Smith	Hialeah	699.97
+Zachary	Smith	Weslaco	699.97
+Evelyn	Smith	Caguas	699.97
+Mary	Smith	Chicago	699.97
+Mary	Ross	Caguas	699.97
+Mary	Bullock	Chicago	699.97
+Mary	Smith	Baytown	699.97
+Teresa	Smith	Caguas	699.97
+Henry	Smith	Caguas	699.97
+Kathy	Smith	Brighton	699.97
+Mary	Smith	Detroit	699.97
+Laura	Bennett	Caguas	699.97
+Christina	Green	Caguas	699.97
+Mary	Smith	Chino Hills	699.97
+Mary	Smith	New Haven	699.97
+Maria	Carlson	Los Angeles	699.97
+Wayne	Torres	Chicago	699.97
+Virginia	Cantrell	Sacramento	699.97
+Mary	Smith	Las Vegas	699.97
+Kenneth	Prince	Caguas	699.97
+Betty	Munoz	Las Vegas	699.97
+Sara	Smith	Los Angeles	699.97
+Mary	Hudson	Caguas	699.97
+James	Thomas	Kenner	699.96
+Mary	Burton	San Benito	699.96
+Mary	Smith	Caguas	699.96
+Jacqueline	Williams	Tucson	699.96
+Michael	Smith	Honolulu	699.96
+Virginia	Zuniga	Virginia Beach	699.96
+Katherine	Austin	Davis	699.96
+Margaret	Mcdaniel	Tucson	699.96
+Angela	Franklin	Caguas	699.96
+Mary	Carson	Long Beach	699.96
+Mary	Smith	Miami	699.96
+Kathleen	Harper	Carrollton	699.96
+Evelyn	Valencia	Caguas	699.96
+Mary	Smith	Caguas	699.96
+Evelyn	Fritz	Manati	699.96
+Mary	Davidson	Mayaguez	699.96
+Billy	Pittman	Caguas	699.96
+Louis	Bishop	Caguas	699.96
+Jennifer	Williamson	Rio Grande	699.96
+Justin	Smith	Caguas	699.96
+John	Jones	Weslaco	699.96
+Mary	Burns	Federal Way	699.96
+Frank	Smith	San Jose	699.96
+Mary	Merritt	San Jose	699.96
+Angela	Fox	Seattle	699.96
+Eric	Smith	Saint Peters	699.96
+Marie	Shah	Chicago	699.96
+Jeffrey	Melton	Chicago Heights	699.96
+Sean	Bradley	San Jose	699.96
+Mary	Rhodes	Phoenix	699.96
+Mary	Burnett	Brooklyn	699.96
+Mary	Smith	Murfreesboro	699.96
+Robert	Blankenship	San Francisco	699.96
+Mary	Smith	Rowland Heights	699.96
+Mary	Barrera	Caguas	699.96
+Mary	Smith	El Paso	699.96
+Mary	Smith	Caguas	699.96
+Patricia	Gonzalez	Eugene	699.96
+Mary	Curtis	Caguas	699.96
+Mary	Lawrence	Caguas	699.96
+Mary	Snyder	Los Angeles	699.96
+Kathleen	Smith	Albuquerque	699.96
+Mary	Bowers	Cumberland	699.96
+Mary	Smith	Elgin	699.96
+Gregory	Smith	Hayward	699.96
+Joseph	Stevens	Princeton	699.96
+Nicholas	Strickland	Union	699.96
+Mary	Powers	Caguas	699.96
+Michelle	Acosta	Santa Cruz	699.96
+Jordan	Smith	Caguas	699.96
+Mary	Yang	Caguas	699.96
+Lawrence	Keller	Mount Pleasant	699.96
+Ronald	Smith	Virginia Beach	699.96
+Mary	Smith	Tucson	699.96
+Joseph	Stone	Fullerton	699.96
+David	Smith	Caguas	699.96
+Donald	Price	Hampton	699.96
+Jesse	Crane	Provo	699.96
+Mary	Guzman	Saint Louis	699.96
+Rebecca	Gallagher	Caguas	699.96
+Mary	Smith	Caguas	699.96
+Carol	Smith	San Antonio	699.96
+Jason	Smith	Caguas	699.96
+Mary	Glass	Caguas	699.96
+Mary	Smith	Memphis	699.96
+Mary	Smith	Sacramento	699.96
+Mary	Long	Costa Mesa	699.96
+Mary	Elliott	Chicago	699.96
+Mary	Smith	Caguas	699.96
+Mary	Smith	Hialeah	699.96
+Mary	Mullen	Phoenix	699.96
+William	Smith	Las Vegas	699.96
+Mary	Schmidt	North Hills	699.96
+Helen	Gomez	Houston	699.96
+Gloria	Grimes	Davis	699.96
+Samantha	Smith	Cleveland	699.96
+David	Franklin	Caguas	699.96
+Jessica	Smith	Caguas	699.96
+Kevin	Smith	Reno	699.96
+Ann	Smith	Caguas	699.96
+Mary	Smith	Houston	699.96
+Mary	Mason	Caguas	699.96
+Mary	Smith	Virginia Beach	699.96
+Mary	Aguilar	Caguas	699.96
+Nancy	Smith	Roswell	699.96
+Amanda	Kelly	Caguas	699.96
+Mary	Chapman	Houston	699.96
+Rebecca	Smith	Newark	699.96
+Wayne	Crawford	Caguas	699.96
+Angela	Smith	Jersey City	699.96
+David	Larsen	San Pablo	699.96
+Mary	Taylor	Westland	699.96
+Mary	Smith	Paramount	699.96
+Keith	Barnes	Caguas	699.96
+Mary	Anderson	York	699.96
+Daniel	Santos	Caguas	699.96
+Bryan	Smith	Atlanta	699.96
+Mary	Morales	Chicago	699.96
+Susan	Smith	Caguas	699.96
+Ann	Waller	Caguas	699.96
+Frank	Livingston	Caguas	699.96
+Mary	Smith	Annandale	699.96
+Doris	Smith	Caguas	699.96
+Teresa	Murphy	Caguas	699.96
+Mary	Smith	Lancaster	699.96
+Brenda	Jordan	Caguas	699.96
+Mary	Hurley	Chicago	699.96
+Victoria	Morales	Caguas	699.96
+George	Smith	Mission Viejo	699.96
+Frank	Lopez	Caguas	699.96
+Mary	Hudson	Williamsport	699.96
+Joseph	Lambert	Westland	699.96
+James	Miller	Antioch	699.96
+Mary	Richardson	Bronx	699.96
+Teresa	Allen	Pompano Beach	699.96
+Sarah	Smith	Apex	699.96
+Judy	Phillips	San Diego	699.96
+Mary	Shaw	Chicago	699.96
+Mary	Smith	Billings	699.96
+Sarah	Smith	Apex	699.96
+Lauren	Shaffer	Caguas	699.96
+Brian	Mitchell	Harlingen	699.96
+Mary	Hudson	Caguas	699.96
+Mary	Kramer	Miami	699.96
+Laura	Smith	Mesquite	699.96
+Mary	Wilson	Caguas	699.96
+Anna	Smith	Houston	699.96
+Katherine	Moore	Fairfield	699.96
+Rose	Morrow	Jacksonville	699.96
+Mary	Greene	San Francisco	699.96
+Jacqueline	James	Houston	699.96
+Mary	Ryan	Caguas	699.96
+David	Dixon	Caguas	699.96
+Mary	Smith	Perth Amboy	699.96
+Mary	Cantrell	Caguas	699.96
+Mary	Bernard	Caguas	699.96
+Wayne	Woods	Van Nuys	699.96
+Margaret	Hess	Tempe	699.96
+Jesse	Esparza	Martinsburg	699.96
+Frances	Smith	Tucson	699.96
+Mary	Woods	Pompano Beach	699.96
+Mary	Torres	Lockport	699.96
+Brian	Nguyen	Porterville	699.96
+Zachary	Smith	Chula Vista	699.96
+Emily	Smith	College Station	699.96
+Mary	Merritt	San Jose	699.96
+Tiffany	Brown	Caguas	699.96
+Carolyn	Harmon	Caguas	699.96
+Mary	Smith	Caguas	699.96
+Amanda	Brown	Perth Amboy	699.96
+Gregory	Allen	Morristown	699.96
+Betty	Smith	Caguas	699.96
+Eric	Jensen	Caguas	699.96
+Janet	Schmidt	Oceanside	699.96
+Rachel	Smith	Long Beach	699.96
+Bryan	Kaufman	Simi Valley	699.96
+Ruth	Smith	Caguas	699.96
+Debra	Ryan	Caguas	699.96
+Mary	Smith	Caguas	699.96
+Mary	Robinson	Taylor	699.96
+Kenneth	Clark	Caguas	699.96
+Dylan	Horton	Saint Paul	699.96
+Melissa	Smith	Brooklyn	699.96
+Mary	Smith	Fremont	699.96
+Mary	Gould	Caguas	699.96
+Ruth	Petersen	Caguas	699.96
+Willie	Smith	Bakersfield	699.96
+Mary	Chavez	Caguas	699.96
+Henry	Kelley	Caguas	699.96
+Mary	Campbell	Honolulu	699.96
+Mary	Cole	San Diego	699.96
+David	Bell	Caguas	699.96
+David	Miranda	Beaverton	699.96
+Doris	Smith	Caguas	699.96
+Carol	Smith	Brooklyn	699.96
+Walter	Pacheco	Bend	699.96
+Michelle	Solis	Dubuque	699.96
+Mary	Arnold	Caguas	699.96
+Johnny	Hood	Glenview	699.96
+Mary	Smith	Caguas	699.96
+Mary	Smith	Sacramento	699.96
+Laura	Smith	Mesquite	699.96
+Ryan	Mosley	Kailua	699.96
+Cynthia	Smith	Caguas	699.96
+Mary	Liu	Norcross	699.96
+Teresa	Werner	Caguas	699.96
+Roy	Smith	Caguas	699.96
+Nicholas	Dyer	Lynwood	699.96
+Hannah	Jarvis	San Jose	699.96
+Linda	Smith	Caguas	699.96
+Christopher	Sanford	La Mesa	699.96
+Evelyn	Lowe	El Paso	699.96
+Joseph	Patterson	Guaynabo	699.96
+Kathy	Bishop	Corona	699.96
+Debra	Smith	Humacao	699.96
+Maria	Peterson	Brooklyn	699.96
+Olivia	Moran	Caguas	699.96
+Dylan	Smith	Fresno	699.96
+Willie	Daniel	Tempe	699.96
+Mary	Bishop	Los Angeles	699.96
+Mary	Jacobs	Pompano Beach	699.96
+Charles	Waller	Miami	699.96
+Mary	Stuart	Carol Stream	699.96
+Mary	Smith	Plano	699.96
+Walter	Smith	Corona	699.96
+Tammy	Smith	Caguas	699.96
+Amber	Nguyen	Highland	699.96
+Mary	Johnson	Caguas	699.96
+Louis	Richardson	Valrico	699.96
+Linda	Morales	Caguas	699.96
+Mary	Smith	Phoenix	699.96
+Jacob	Smith	Caguas	699.96
+Mary	Smith	Everett	699.96
+Janet	Smith	Caguas	699.96
+Mary	Smith	Cincinnati	699.96
+Mary	Silva	Temecula	699.96
+Gregory	Carroll	Aurora	699.96
+Charles	Lester	Caguas	699.96
+Mary	Smith	Florissant	699.96
+Diana	Smith	Caguas	699.96
+Mary	Reed	Ventura	699.96
+Mary	Smith	Harlingen	699.96
+Patricia	Smith	Princeton	699.96
+Margaret	Meadows	Philadelphia	699.96
+Cynthia	Smith	Ypsilanti	699.96

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sparkML-airbnb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sparkML_airbnb_jar</output-path>
+    <root id="archive" name="sparkML-airbnb.jar">
+      <element id="module-output" name="sparkML-airbnb" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="sparkML-airbnb" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.12.12/lib/scala-library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

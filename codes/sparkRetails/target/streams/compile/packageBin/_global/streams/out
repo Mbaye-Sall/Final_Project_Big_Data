@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/sparkretails_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/retails[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/classes/com/retails[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/retails/MainApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/classes/com/retails/MainApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/retails/MainApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/classes/com/retails/MainApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/retails/MainApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dmboup/gitProjects/apache_spark_data_processing/codes/sparkRetails/target/scala-2.12/classes/com/retails/MainApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
